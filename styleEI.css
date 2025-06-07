@@ -1,0 +1,87 @@
+*{
+    margin:0px;
+}
+body{
+    background-image: url('images/back news img.png');
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container {
+  color:antiquewhite;
+    display:grid;
+    height:100vh;
+    grid-template-columns:10% 55% 10% 3% 22%;
+    grid-template-rows:1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    gap:5px;
+}
+.crossword {
+  display: grid;
+  grid-area: 2/2/6/3;
+  grid-template-columns: repeat(11,1fr);
+  grid-template-rows: repeat(11,1fr);
+  background-color:whitesmoke;
+}
+.crossword input{
+  box-sizing:border-box;
+  width:75px;
+  height:47px;
+  text-transform:uppercase;
+  border:solid black;
+  padding:0;
+  margin:0;
+  text-align:center;
+  font-size:x-large;
+  font-weight:bolder;
+  color:black;
+  background-color:#F6E6CB;
+}
+.cluecontainer{
+  display:grid;
+  grid-area:2/5/6/6;
+  background-color:#F6E6CB;
+  display:flex;
+  flex-wrap:wrap;
+  border-radius:10%;
+  position:relative;
+  display:flex;
+  justify-content:space-between;
+}
+
+.clue{
+  color:black;
+  flex-direction:column;
+  position:relative;
+  left:49px;
+  top:20px;
+  font-size:40px;
+  overflow-wrap:break-word;
+  word-wrap:break-word;
+  white-space:no wrap;
+  line-height:1.4;
+
+}
+
+#btn1{
+  position:relative;
+  height:40px;
+  top:330px;
+  left:10px;
+}
+#btn2{
+  position:relative;
+  height:40px;
+  top:330px;
+  left:10px;
+
+}
+
+#blank{
+  background-color: black;
+}
+
+.checkBtn{
+  position:relative;
+  left:30px;
+  top:370px;
+}
+
