@@ -45,13 +45,8 @@ We’ve uploaded it here to **document our journey**, **highlight our learning**
 
 ## ⚠️ License & Use
 
-This repository is **not intended for reuse, distribution, or integration into other projects**.
+📄 [View License](LICENSE.txt)
 
-We kindly ask that you **do not copy, modify, or use** this codebase for personal, academic, or commercial purposes.
-
-Feel free to explore the project for **inspiration or learning**, but please respect our intention behind sharing it. 🤍
-
----
 
 #Crossminds #WebApp #StudentProject #FastAPI #Crossword
 
