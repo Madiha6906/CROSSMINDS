@@ -1,32 +1,57 @@
-Crossminds is a playful yet intellectually stimulating crossword
-website designed by a group of young creators aiming to make
-learning fun and nostalgic for Gen Z. The platform blends education
-and entertainment by embedding subject-focused clues into classic
-crossword grids, encouraging users to think critically while engaging
-with the content. Unlike conventional learning tools, Crossminds
-focuses on mental stimulation through game-based learning, making
-it an enjoyable way to build vocabulary, improve reasoning, and
-revisit childhood joy.
+# 🧩 CROSSMINDS – Crossword Puzzle Web App
 
-Our crossword puzzles revolve around three core themes. 
+**CROSSMINDS** is an interactive crossword puzzle website built as part of an academic project.
 
-1. Data Structures set tests technical understanding, encouraging
-users to connect terms like "stack," "queue," or "binary tree" with their
-functions and uses. 
+While it’s not a large-scale AI application, it's something we created from the ground up with a lot of learning, teamwork, and effort — and we’re proud to showcase it here.
 
-2. Logical Reasoning puzzles focus on pattern recognition,
-deduction, and problem-solving, often mimicking aptitude-style
-questions in a fun and simplified form.
+---
 
-3. Emotional Ability crosswords offer a more reflective twist,
-touching on empathy, emotional cues, and everyday human
-interactions, promoting self-awareness alongside intellectual growth.
+## 🚀 Features
 
+- Crossword puzzles focused on:
+  - Logical Reasoning
+  - Emotional Intelligence
+  - Data Structures
+- Clean and intuitive web interface
+- Clue-by-clue navigation
+- Letter-by-letter input
+- Category-based puzzle switching
 
-The front end of the website was crafted using HTML, CSS,
-JavaScript, and JSON for dynamic clue handling and responsive
-interaction. Madiha Javeed and Ahsanath Taqdees brought the visual
-experience to life, ensuring it's vibrant and user-friendly. The
-backend is powered by FastAPI, with Khushi Ozha and Sajani
-Manimala handling server logic, clue management, and API
-integration to seamlessly deliver the crossword experience to users.
+---
+
+## 👥 Team Members
+
+- **Ahsanath Taqdees** – Frontend  
+- **Madiha Javeed** – Frontend  
+- **Khushi Ozha** – Backend  
+- **Sajani Manimala** – Backend
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Python (FastAPI)  
+- **Version Control**: Git & GitHub
+
+---
+
+## 🎓 Purpose
+
+> This project was developed purely for academic purposes as part of our coursework.  
+We’ve uploaded it here to **document our journey**, **highlight our learning**, and share a piece of work we genuinely enjoyed building as a team.
+
+---
+
+## ⚠️ License & Use
+
+This repository is **not intended for reuse, distribution, or integration into other projects**.
+
+We kindly ask that you **do not copy, modify, or use** this codebase for personal, academic, or commercial purposes.
+
+Feel free to explore the project for **inspiration or learning**, but please respect our intention behind sharing it. 🤍
+
+---
+
+#Crossminds #WebApp #StudentProject #FastAPI #Crossword
+
