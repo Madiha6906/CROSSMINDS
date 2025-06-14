@@ -1,0 +1,15 @@
+Academic Use License
+
+This project, titled **"CROSSMINDS"**, is provided solely for **academic purposes and documentation**.
+
+It is intended to demonstrate the learning process, collaboration, and technical growth experienced during its development by the project team.
+
+No rights are granted for:
+
+- Reuse or redistribution of the source code  
+- Modification or adaptation of the codebase  
+- Integration into any academic, personal, or commercial projects  
+
+This repository is shared only to document and preserve the project as a learning artifact.
+
+© 2025 Ahsanath Taqdees, Madiha Javeed, Khushi Ozha, Sajani Manimala
